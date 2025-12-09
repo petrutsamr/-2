@@ -1,0 +1,14 @@
+.nav-link.active {
+            background-color: #e3f2fd;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+        .section-nav {
+            background: #f8f9fa;
+            padding: 10px;
+            margin: 20px 0;
+            border-radius: 5px;
+        }
+        #team img {
+            border-radius: 50%;
+        }
